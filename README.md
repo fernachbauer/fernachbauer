@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fernachbauer
 - 👀 I’m interested in Data Science and algorithmic trading
 - 🌱 I’m currently learning deep learning and bigdata
-- 💞️ I’m looking to collaborate on Data Science and Big Data Proyects in Python and Pyspark
+- 💞️ I’m looking to collaborate on Data Science and Big Data Proyects in Python and PySpark
 - 📫 How to reach me ... in fernachbauer@gmail.com
 
 <!---
